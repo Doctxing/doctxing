@@ -3,9 +3,9 @@
 I'm a student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a student at Harbin Institute Of Technology (Shenzhen).
-- 💜 Interests: minecraft
+- 🎮 Games: Minecraft & Adofai
 - 🌱 On a never-ending quest of learning
-- 🤔 I’m looking for help in learning about Web Dev and JavaScript
+- 🤔 I’m looking for help in learning golang & rust
 - 📫 How to reach me: [email](mailto:dr-xing@outlook.com)
 - ⚡️ Fun fact: A philosophical fanatic
 
