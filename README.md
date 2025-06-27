@@ -6,7 +6,7 @@ I'm a student who is passionate about writing code, solving problems, automating
 - 🎮 Games: Minecraft & Adofai
 - 🌱 On a never-ending quest of learning
 - 🤔 I’m looking for help in learning golang & rust
-- 📫 How to reach me: [email](mailto:dr-xing@outlook.com)
+- 📫 How to reach me: [email](mailto:doctxing@outlook.com)
 - ⚡️ Fun fact: A philosophical fanatic
 
 ## Some Stats About Doctxing (Public Only)
