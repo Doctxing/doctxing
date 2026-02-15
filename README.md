@@ -13,11 +13,11 @@ I'm a student who is passionate about writing code, solving problems, automating
 <p align="Center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=doctxing&show_icons=true&theme=github_dark"
+      srcset="https://github-readme-streak-stats-kappa-three.vercel.app?user=doctxing&theme=github-dark-blue"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=doctxing&show_icons=true"
+      srcset="https://github-readme-streak-stats-kappa-three.vercel.app?user=doctxing&theme=github-light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Doctxing&show_icons=true" />
