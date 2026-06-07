@@ -1,15 +1,14 @@
 <h1 align="Center">  Hey man <img src="giphy.webp" width="40px"> ! I'm  Doctxing <img src="Hi.gif" width="30px"> </h1>
 
-I'm a student who is passionate about writing code, solving problems, automating stuff, and building software.
+I'm a student who is passionate about learning math, writing code, reversing things, and building hardware.
 
-- 🔭 I’m currently a student at Harbin Institute Of Technology (Shenzhen).
+- 🔭 I’m currently a student at Harbin Institute Of Technology (Shenzhen)
+- ⚡️ Familiar with several programming languages, but hard to pick a favorite
 - 🎮 Games: Minecraft & Adofai
-- 🌱 On a never-ending quest of learning
-- 🤔 I’m looking for help in learning golang & rust
 - 📫 How to reach me: [email](mailto:b64decode(b'ZG9jdHhpbmdAb3V0bG9vay5jb20='))
-- ⚡️ Fun fact: A philosophical fanatic
 
-## Some Stats About Doctxing (Public Only)
+## Some Stats About Me (Public)
+
 <p align="Center">
   <picture>
     <source
